@@ -5,6 +5,5 @@
 
 ## TODO
 
-- Incorporate [electron-builder](https://github.com/electron-userland/electron-builder) for packaging. Details are [here](https://github.com/vicentedealencar/electron-with-create-react-app/commit/f1729381d588e65ac140ce5a08cc6277babd9641).
 - Ensure `react-scripts` and `electron` are up-to-date
 - Add basic touch bar example
